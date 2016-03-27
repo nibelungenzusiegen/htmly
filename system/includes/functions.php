@@ -1842,10 +1842,11 @@ function social($imgDir = null)
 function copyright()
 {
     $blogcp = blog_copyright();
-    $credit = 'Proudly powered by <a href="http://www.htmly.com" target="_blank">HTMLy</a>';
+    $impressum = '<a href="https://nibelungen.siegen.so/1962/02/impressum-visdp-datenschutz">Impressum</a>';
+    $credit = '<a href="http://www.htmly.com" target="_blank">HTMLy</a>';
 
     if (!empty($blogcp)) {
-        return $copyright = '<p>' . $blogcp . '</p><p>' . $credit . '</p>';
+        return $copyright = '<p>' . $blogcp . '</p><p>' . $impressum . ' - ' . $credit . '</p>';
     } else {
         return $credit = '<p>' . $credit . '</p>';
     }
