@@ -53,10 +53,11 @@ Diese Tradition pflegen wir mit anderen Studentenverbindungen, insbesondere in u
 
 Religion ist für uns nicht gleich Kirche, deshalb setzen wir uns kritisch mit den christlichen Werten im Kontext der Gegenwart auseinander und befürworten die Ökumene als einen Schritt, der Menschen zusammenbringt.
 
-Während das Thema als sehr privat aufgefasst werden kann, so vertehen wir eine sachliche Diskussion darüber als gesellschaftlich wertvoll und unseren Bildungsauftrag. Wir informieren uns dehalb über aktuelle religiöse Fragen und fördern eine aktiven Meinungsaustausch um religöse Antworten nicht einfach so zu übernehmen.
+Während das Thema als sehr privat aufgefasst werden kann, so verstehen wir eine sachliche Diskussion darüber als gesellschaftlich wertvoll und unseren Bildungsauftrag. Wir informieren uns dehalb über aktuelle religiöse Fragen und fördern eine aktiven Meinungsaustausch um religöse Antworten nicht einfach so zu übernehmen.
 
 # Der Wingolfsbund
 <center>![Wappen des Wingolf][5]</center>
+
 Wir bilden mit 34 Verbindungen in deutschen, estnischen  und österreichischen Universitätsstädten den [Wingolfsbund][6]. Wir besuchen uns gegenseitig, pflegen gemeinsame Veranstaltungen,  Fortbildungen und bleiben dort auf Zwischenreise oder für Kurzurlaube. Seine Gründung im frühen 19. Jahrhundert erhält studentische Tradition, demokratische Ideale, christliche Werte und gemeinschaftliche Lebensweise.
 
 Die Geschichte des Wingolfsbundes reicht bis ins frühe 19. Jahrhundert zurück. Das Ziel seiner Gründer war es, überlieferte studentische Traditionen und die demokratischen Ideale der frühen Burschenschaften mit einer Ausrichtung auf den christlichen Glauben zu verbinden. 
@@ -65,7 +66,7 @@ Die Geschichte des Wingolfsbundes reicht bis ins frühe 19. Jahrhundert zurück.
 <iframe width="420" height="315" src="https://www.youtube.com/embed/xec5t8tK9Dw" frameborder="0" allowfullscreen></iframe>
 </center>
 
-Diese Wert, diesen kleinsten gemeinsame Nenner, pflegen wir auch in Siegen.
+Diese Werte, diesen kleinsten gemeinsame Nenner, pflegen wir auch in Siegen.
 
 
   [1]: https://nibelungen.siegen.so/content/images/20160327174015-prinzipfreundschaft.gif
